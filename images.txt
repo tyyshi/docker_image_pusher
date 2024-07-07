@@ -6,7 +6,6 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
-tyyshi/ddns-go
 wcjiang/reference
 hiroi-sora/Umi-OCR
 dromara/yft-design
