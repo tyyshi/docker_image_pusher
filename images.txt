@@ -7,7 +7,6 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 wcjiang/reference
-hiroi-sora/umi-orc
 dromara/yft-design
 portainer/portainer
 moelin/1panel
