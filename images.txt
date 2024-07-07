@@ -7,7 +7,6 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 wcjiang/reference
-portainer/portainer
 moelin/1panel
 hay-kot/homebox
 qbittorrent/qBittorrent
