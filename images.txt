@@ -8,6 +8,7 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 wcjiang/reference
 moelin/1panel
+DDS-Derek/xiaoya-alist
 qbittorrent/qbittorrent
 tyyshi/homebox
 jeessy2/ddns-go
