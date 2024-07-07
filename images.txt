@@ -1,1 +1,1 @@
-v2fly/v2ray-core
+v2fly/docker
