@@ -8,6 +8,6 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 wcjiang/reference
 moelin/1panel
-hay-kot/homebox
 qbittorrent/qBittorrent
+tyyshi/homebox
 jeessy2/ddns-go
